@@ -7,7 +7,7 @@
         {
             "process": "calculatorapp",
             "action": "log"
-        }
+        },
         {
             "process": "test",
             "action": "log"
