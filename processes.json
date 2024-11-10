@@ -10,7 +10,7 @@
         },
         {
             "process": "test",
-            "action": "log"
+            "action": "block"
         }
     ]
 }
