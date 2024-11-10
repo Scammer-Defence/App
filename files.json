@@ -5,7 +5,7 @@
         {
             "file": "remote_access.exe",
             "action": "block"
-        }
+        },
         {
             "file": "test_remote_access.exe",
             "action": "block"
