@@ -10,5 +10,9 @@
             "domain": "yahoo.com",
             "action": "log"
         }
+        {
+            "domain": "test.com",
+            "action": "block"
+        }
     ]
 } 
