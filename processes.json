@@ -1,1 +1,12 @@
-
+{
+    "processes": [
+        {
+            "process": "calculator",
+            "action": "log"
+        },
+        {
+            "process": "calculatorapp",
+            "action": "log"
+        }
+    ]
+}
