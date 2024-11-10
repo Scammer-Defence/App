@@ -1,0 +1,14 @@
+{
+    "last_updated": "2024-01-30",
+    "version": "1.0",
+    "items": [
+        {
+            "domain": "chad.com",
+            "action": "block"
+        },
+        {
+            "domain": "yahoo.com",
+            "action": "log"
+        }
+    ]
+} 
