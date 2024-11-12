@@ -3,16 +3,296 @@
     "version": "1.0",
     "items": [
         {
-            "domain": "chad.com",
+            "domain": "anydesk",
             "action": "block"
         },
         {
-            "domain": "yahoo.com",
-            "action": "log"
+            "domain": "teamviewer",
+            "action": "block"
         },
         {
-            "domain": "test.com",
+            "domain": "splashtop",
+            "action": "block"
+        },
+        {
+            "domain": "logmein",
+            "action": "block"
+        },
+        {
+            "domain": "ultraviewer",
+            "action": "block"
+        },
+        {
+            "domain": "remotepc",
+            "action": "block"
+        },
+        {
+            "domain": "chrome",
+            "action": "block"
+        },
+        {
+            "domain": "join",
+            "action": "block"
+        },
+        {
+            "domain": "gotomypc",
+            "action": "block"
+        },
+        {
+            "domain": "vnc",
+            "action": "block"
+        },
+        {
+            "domain": "remotix",
+            "action": "block"
+        },
+        {
+            "domain": "radmin",
+            "action": "block"
+        },
+        {
+            "domain": "connectwise",
+            "action": "block"
+        },
+        {
+            "domain": "webex",
+            "action": "block"
+        },
+        {
+            "domain": "screenconnect",
+            "action": "block"
+        },
+        {
+            "domain": "zoho",
+            "action": "block"
+        },
+        {
+            "domain": "termius",
+            "action": "block"
+        },
+        {
+            "domain": "meshcentral",
+            "action": "block"
+        },
+        {
+            "domain": "lite-manager",
+            "action": "block"
+        },
+        {
+            "domain": "tigertech",
+            "action": "block"
+        },
+        {
+            "domain": "parsec",
+            "action": "block"
+        },
+        {
+            "domain": "chromeenterprise",
+            "action": "block"
+        },
+        {
+            "domain": "remoteutilities",
+            "action": "block"
+        },
+        {
+            "domain": "dwservice",
+            "action": "block"
+        },
+        {
+            "domain": "imbutterfly",
+            "action": "block"
+        },
+        {
+            "domain": "ammyy",
+            "action": "block"
+        },
+        {
+            "domain": "realvnc",
+            "action": "block"
+        },
+        {
+            "domain": "airserver",
+            "action": "block"
+        },
+        {
+            "domain": "thinfinity",
+            "action": "block"
+        },
+        {
+            "domain": "supremo",
+            "action": "block"
+        },
+        {
+            "domain": "mremoteng",
+            "action": "block"
+        },
+        {
+            "domain": "bomgar",
+            "action": "block"
+        },
+        {
+            "domain": "tsplus",
+            "action": "block"
+        },
+        {
+            "domain": "guacamole",
+            "action": "block"
+        },
+        {
+            "domain": "getscreen",
+            "action": "block"
+        },
+        {
+            "domain": "dameware",
+            "action": "block"
+        },
+        {
+            "domain": "rdpwrap",
+            "action": "block"
+        },
+        {
+            "domain": "teamviewerqs",
+            "action": "block"
+        },
+        {
+            "domain": "cybele",
+            "action": "block"
+        },
+        {
+            "domain": "veeam",
+            "action": "block"
+        },
+        {
+            "domain": "mikogo",
+            "action": "block"
+        },
+        {
+            "domain": "accessnow",
+            "action": "block"
+        },
+        {
+            "domain": "deskroll",
+            "action": "block"
+        },
+        {
+            "domain": "remmina",
+            "action": "block"
+        },
+        {
+            "domain": "thinsoftinc",
+            "action": "block"
+        },
+        {
+            "domain": "splashstop",
+            "action": "block"
+        },
+        {
+            "domain": "proxynova",
+            "action": "block"
+        },
+        {
+            "domain": "dwmsoft",
+            "action": "block"
+        },
+        {
+            "domain": "remotespark",
+            "action": "block"
+        },
+        {
+            "domain": "helphand",
+            "action": "block"
+        },
+        {
+            "domain": "joinjoin",
+            "action": "block"
+        },
+        {
+            "domain": "assistzoho",
+            "action": "block"
+        },
+        {
+            "domain": "multiuser",
+            "action": "block"
+        },
+        {
+            "domain": "simplehelp",
+            "action": "block"
+        },
+        {
+            "domain": "fixme",
+            "action": "block"
+        },
+        {
+            "domain": "neorouter",
+            "action": "block"
+        },
+        {
+            "domain": "skyfex",
+            "action": "block"
+        },
+        {
+            "domain": "invision",
+            "action": "block"
+        },
+        {
+            "domain": "remoteware",
+            "action": "block"
+        },
+        {
+            "domain": "teamlink",
+            "action": "block"
+        },
+        {
+            "domain": "airwatch",
+            "action": "block"
+        },
+        {
+            "domain": "osirium",
+            "action": "block"
+        },
+        {
+            "domain": "netviewer",
+            "action": "block"
+        },
+        {
+            "domain": "accudata",
+            "action": "block"
+        },
+        {
+            "domain": "nexd",
+            "action": "block"
+        },
+        {
+            "domain": "remoter",
+            "action": "block"
+        },
+        {
+            "domain": "pangolin",
+            "action": "block"
+        },
+        {
+            "domain": "screensharepro",
+            "action": "block"
+        },
+        {
+            "domain": "iwant",
+            "action": "block"
+        },
+        {
+            "domain": "beyondtrust",
+            "action": "block"
+        },
+        {
+            "domain": "solarwinds",
+            "action": "block"
+        },
+        {
+            "domain": "comodo",
+            "action": "block"
+        },
+        {
+            "domain": "homelab",
             "action": "block"
         }
     ]
-} 
+}
