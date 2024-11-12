@@ -3,12 +3,296 @@
     "version": "1.0",
     "items": [
         {
-            "file": "remote_access.exe",
+            "file": "anydesk",
             "action": "block"
         },
         {
-            "file": "test_remote_access.exe",
+            "file": "teamviewer",
+            "action": "block"
+        },
+        {
+            "file": "splashtop",
+            "action": "block"
+        },
+        {
+            "file": "logmein",
+            "action": "block"
+        },
+        {
+            "file": "ultraviewer",
+            "action": "block"
+        },
+        {
+            "file": "remotepc",
+            "action": "block"
+        },
+        {
+            "file": "chrome",
+            "action": "block"
+        },
+        {
+            "file": "join",
+            "action": "block"
+        },
+        {
+            "file": "gotomypc",
+            "action": "block"
+        },
+        {
+            "file": "vnc",
+            "action": "block"
+        },
+        {
+            "file": "remotix",
+            "action": "block"
+        },
+        {
+            "file": "radmin",
+            "action": "block"
+        },
+        {
+            "file": "connectwise",
+            "action": "block"
+        },
+        {
+            "file": "webex",
+            "action": "block"
+        },
+        {
+            "file": "screenconnect",
+            "action": "block"
+        },
+        {
+            "file": "zoho",
+            "action": "block"
+        },
+        {
+            "file": "termius",
+            "action": "block"
+        },
+        {
+            "file": "meshcentral",
+            "action": "block"
+        },
+        {
+            "file": "lite-manager",
+            "action": "block"
+        },
+        {
+            "file": "tigertech",
+            "action": "block"
+        },
+        {
+            "file": "parsec",
+            "action": "block"
+        },
+        {
+            "file": "chromeenterprise",
+            "action": "block"
+        },
+        {
+            "file": "remoteutilities",
+            "action": "block"
+        },
+        {
+            "file": "dwservice",
+            "action": "block"
+        },
+        {
+            "file": "imbutterfly",
+            "action": "block"
+        },
+        {
+            "file": "ammyy",
+            "action": "block"
+        },
+        {
+            "file": "realvnc",
+            "action": "block"
+        },
+        {
+            "file": "airserver",
+            "action": "block"
+        },
+        {
+            "file": "thinfinity",
+            "action": "block"
+        },
+        {
+            "file": "supremo",
+            "action": "block"
+        },
+        {
+            "file": "mremoteng",
+            "action": "block"
+        },
+        {
+            "file": "bomgar",
+            "action": "block"
+        },
+        {
+            "file": "tsplus",
+            "action": "block"
+        },
+        {
+            "file": "guacamole",
+            "action": "block"
+        },
+        {
+            "file": "getscreen",
+            "action": "block"
+        },
+        {
+            "file": "dameware",
+            "action": "block"
+        },
+        {
+            "file": "rdpwrap",
+            "action": "block"
+        },
+        {
+            "file": "teamviewerqs",
+            "action": "block"
+        },
+        {
+            "file": "cybele",
+            "action": "block"
+        },
+        {
+            "file": "veeam",
+            "action": "block"
+        },
+        {
+            "file": "mikogo",
+            "action": "block"
+        },
+        {
+            "file": "accessnow",
+            "action": "block"
+        },
+        {
+            "file": "deskroll",
+            "action": "block"
+        },
+        {
+            "file": "remmina",
+            "action": "block"
+        },
+        {
+            "file": "thinsoftinc",
+            "action": "block"
+        },
+        {
+            "file": "splashstop",
+            "action": "block"
+        },
+        {
+            "file": "proxynova",
+            "action": "block"
+        },
+        {
+            "file": "dwmsoft",
+            "action": "block"
+        },
+        {
+            "file": "remotespark",
+            "action": "block"
+        },
+        {
+            "file": "helphand",
+            "action": "block"
+        },
+        {
+            "file": "joinjoin",
+            "action": "block"
+        },
+        {
+            "file": "assistzoho",
+            "action": "block"
+        },
+        {
+            "file": "multiuser",
+            "action": "block"
+        },
+        {
+            "file": "simplehelp",
+            "action": "block"
+        },
+        {
+            "file": "fixme",
+            "action": "block"
+        },
+        {
+            "file": "neorouter",
+            "action": "block"
+        },
+        {
+            "file": "skyfex",
+            "action": "block"
+        },
+        {
+            "file": "invision",
+            "action": "block"
+        },
+        {
+            "file": "remoteware",
+            "action": "block"
+        },
+        {
+            "file": "teamlink",
+            "action": "block"
+        },
+        {
+            "file": "airwatch",
+            "action": "block"
+        },
+        {
+            "file": "osirium",
+            "action": "block"
+        },
+        {
+            "file": "netviewer",
+            "action": "block"
+        },
+        {
+            "file": "accudata",
+            "action": "block"
+        },
+        {
+            "file": "nexd",
+            "action": "block"
+        },
+        {
+            "file": "remoter",
+            "action": "block"
+        },
+        {
+            "file": "pangolin",
+            "action": "block"
+        },
+        {
+            "file": "screensharepro",
+            "action": "block"
+        },
+        {
+            "file": "iwant",
+            "action": "block"
+        },
+        {
+            "file": "beyondtrust",
+            "action": "block"
+        },
+        {
+            "file": "solarwinds",
+            "action": "block"
+        },
+        {
+            "file": "comodo",
+            "action": "block"
+        },
+        {
+            "file": "homelab",
             "action": "block"
         }
     ]
-} 
+}
